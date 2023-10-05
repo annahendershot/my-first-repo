@@ -63,6 +63,7 @@ h2, h3 {
   z-index: 11;
   margin: 0;
 }
+
 .box h3 {
   font-size: 1.25em;
   transition: ease-in-out 0.3s;
